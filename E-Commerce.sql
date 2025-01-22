@@ -1,3 +1,5 @@
+CREATE DATABASE E-Commerce
+USE E-Commerce   
 CREATE TABLE Customers (
     customer_id INT PRIMARY KEY AUTO_INCREMENT,
     name VARCHAR(100),
